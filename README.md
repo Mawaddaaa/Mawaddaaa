@@ -20,11 +20,8 @@ Skills & Technologies:
 - Git & GitHub  
 
 Currently learning and improving my skills in Flutter and mobile app development.
-
-Feel free to ask me about Flutter, Dart, or app development in general.
-
-How to reach me:  
+ 
 - Email: [dmawa6006@gmail.com](mailto:dmawa6006@gmail.com)  
 - LinkedIn: [Mawada Kamel](https://www.linkedin.com/in/mawada-kamel-322426246)
 
-Fun fact: I love building apps that make life easier and more fun.
+
